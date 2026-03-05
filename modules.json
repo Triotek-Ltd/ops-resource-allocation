@@ -1,0 +1,42 @@
+[
+  {
+    "module_code": "ops16_2",
+    "module_label": "OPS 16.2 - Availability Verification - Checks resource status; consists of schedule validation.",
+    "module_title": "Availability Verification - Checks resource status; consists of schedule validation.",
+    "module_slug": "availability_verification_checks_resource_status_consists_of_schedule_validation",
+    "app_code": "ops16",
+    "app_label": "OPS 16 - Resource Allocation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops16_3",
+    "module_label": "OPS 16.3 - Resource Assignment - Allocates resource; consists of assignment transaction.",
+    "module_title": "Resource Assignment - Allocates resource; consists of assignment transaction.",
+    "module_slug": "resource_assignment_allocates_resource_consists_of_assignment_transaction",
+    "app_code": "ops16",
+    "app_label": "OPS 16 - Resource Allocation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops16_4",
+    "module_label": "OPS 16.4 - Resource Release - Frees resource; consists of status update record.",
+    "module_title": "Resource Release - Frees resource; consists of status update record.",
+    "module_slug": "resource_release_frees_resource_consists_of_status_update_record",
+    "app_code": "ops16",
+    "app_label": "OPS 16 - Resource Allocation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  },
+  {
+    "module_code": "ops16_1",
+    "module_label": "OPS 16.1 - Resource Request Intake - Captures allocation need; consists of request record.",
+    "module_title": "Resource Request Intake - Captures allocation need; consists of request record.",
+    "module_slug": "resource_request_intake_captures_allocation_need_consists_of_request_record",
+    "app_code": "ops16",
+    "app_label": "OPS 16 - Resource Allocation",
+    "bundle_code": "ops",
+    "source_md_path": "doc/rnd/plugs/ops/ops1.md"
+  }
+]
